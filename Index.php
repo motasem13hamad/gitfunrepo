@@ -17,7 +17,9 @@
             <div class="hero-unit">
                 <h1>PHP azure web app </h1>
                 <h2>Congratulations!</h2>
-		<h3>Next Step is update files</h3>
+		
+		    
+		    <h3>Next Step is update files</h3>
                 <p>my App is running application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
